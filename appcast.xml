@@ -3,12 +3,20 @@
     <channel>
         <title>TabShame</title>
         <item>
+            <title>1.4</title>
+            <pubDate>Sat, 11 Apr 2026 14:09:34 +0500</pubDate>
+            <sparkle:version>202604111409</sparkle:version>
+            <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.4/TabShame.dmg" length="7627024" type="application/octet-stream" sparkle:edSignature="06HNfFCAfgZnK5YiIY15b48yWkiPzGbETzIloAzu5jWq51SHwbUKxozifBwiNKQX2AtWvj+qDTCTw9r3rDQqAA=="/>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Sat, 11 Apr 2026 14:05:10 +0500</pubDate>
             <sparkle:version>202604111404</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.3/TabShame.dmg" length="7627070" type="application/octet-stream" sparkle:edSignature="ip3H2XgnXbQC9S3ld1q7lG+jtE7/z1Nm+1q0lvxz+pTtRcY3amEmu1qxZ7EJVT6K0bF3Xyin0l6bPsKIcB4CCw=="/>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.4/TabShame.dmg" length="7627070" type="application/octet-stream" sparkle:edSignature="ip3H2XgnXbQC9S3ld1q7lG+jtE7/z1Nm+1q0lvxz+pTtRcY3amEmu1qxZ7EJVT6K0bF3Xyin0l6bPsKIcB4CCw=="/>
         </item>
         <item>
             <title>1.2</title>
@@ -16,15 +24,7 @@
             <sparkle:version>202604111355</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.3/TabShame.dmg" length="7627171" type="application/octet-stream" sparkle:edSignature="u9Mx2YOrYkpeHhH9zZvWlng30PgdEt0qRuiuEY9KqxCT4N7GhmAa9txG7xE0LqEfCtq6YlMUHtiYRvenbdKBDg=="/>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Sat, 11 Apr 2026 13:49:29 +0500</pubDate>
-            <sparkle:version>202604111349</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.3/TabShame.dmg" length="7626957" type="application/octet-stream" sparkle:edSignature="uFaCmSyCWKLztb0fJ4/zE8Ln/ECLc7tuZ9ks8kJMIUGWLzy+aE+UrFEc42tOqc9RSOavsfsrfUBNDMI/oY0IBA=="/>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.4/TabShame.dmg" length="7627171" type="application/octet-stream" sparkle:edSignature="u9Mx2YOrYkpeHhH9zZvWlng30PgdEt0qRuiuEY9KqxCT4N7GhmAa9txG7xE0LqEfCtq6YlMUHtiYRvenbdKBDg=="/>
         </item>
     </channel>
 </rss>
