@@ -1,0 +1,30 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TabShame</title>
+        <item>
+            <title>1.2</title>
+            <pubDate>Sat, 11 Apr 2026 13:56:15 +0500</pubDate>
+            <sparkle:version>202604111355</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.2/TabShame.dmg" length="7627171" type="application/octet-stream" sparkle:edSignature="u9Mx2YOrYkpeHhH9zZvWlng30PgdEt0qRuiuEY9KqxCT4N7GhmAa9txG7xE0LqEfCtq6YlMUHtiYRvenbdKBDg=="/>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 11 Apr 2026 13:49:29 +0500</pubDate>
+            <sparkle:version>202604111349</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.2/TabShame.dmg" length="7626957" type="application/octet-stream" sparkle:edSignature="uFaCmSyCWKLztb0fJ4/zE8Ln/ECLc7tuZ9ks8kJMIUGWLzy+aE+UrFEc42tOqc9RSOavsfsrfUBNDMI/oY0IBA=="/>
+        </item>
+        <item>
+            <title>1.1</title>
+            <pubDate>Sat, 11 Apr 2026 13:39:07 +0500</pubDate>
+            <sparkle:version>202604111338</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.2/TabShame.dmg" length="7626997" type="application/octet-stream" sparkle:edSignature="7C8jGYtU+wA7t1QtzKHtCdCj565KmEzYh6zN5Adwtuvck5PyQh0yYJAis32yE/BX2GvJLxtnmz/cgp+eXpE6AA=="/>
+        </item>
+    </channel>
+</rss>
