@@ -3,12 +3,20 @@
     <channel>
         <title>TabShame</title>
         <item>
+            <title>1.5.7</title>
+            <pubDate>Sun, 26 Apr 2026 17:40:18 +0500</pubDate>
+            <sparkle:version>202604261739</sparkle:version>
+            <sparkle:shortVersionString>1.5.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.5.7/TabShame.dmg" length="5875559" type="application/octet-stream" sparkle:edSignature="5QZPaPMI9Y5V7Bf1WQlz0Y2NPRTWf5y8qJxK6ciWlnv/U/Xas7+fWV0WisATMRQjXnWn9cTKFySN6Ws25hWlDQ=="/>
+        </item>
+        <item>
             <title>1.5.6</title>
             <pubDate>Sun, 26 Apr 2026 16:55:00 +0500</pubDate>
             <sparkle:version>202604261654</sparkle:version>
             <sparkle:shortVersionString>1.5.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.5.6/TabShame.dmg" length="5874490" type="application/octet-stream" sparkle:edSignature="GPdyJJed5rjH3N7HpfV/o2CjM4SdbANXrqnKFEz1+iSLu/Gm957Ja+apumToetIEYBS+Sh7sSXVKs5sP0eCdBQ=="/>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.5.7/TabShame.dmg" length="5874490" type="application/octet-stream" sparkle:edSignature="GPdyJJed5rjH3N7HpfV/o2CjM4SdbANXrqnKFEz1+iSLu/Gm957Ja+apumToetIEYBS+Sh7sSXVKs5sP0eCdBQ=="/>
         </item>
         <item>
             <title>1.5.5</title>
@@ -16,15 +24,7 @@
             <sparkle:version>202604261627</sparkle:version>
             <sparkle:shortVersionString>1.5.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.5.6/TabShame.dmg" length="5869511" type="application/octet-stream" sparkle:edSignature="GVVh86BrE2az6+LAtgr27R1BmnVBmGn/irausjJtFmwsSZn/PQkzDB3km9pl2u7+1bO82Irz1oU3dRroVC4tDA=="/>
-        </item>
-        <item>
-            <title>1.5.4</title>
-            <pubDate>Sun, 26 Apr 2026 16:17:02 +0500</pubDate>
-            <sparkle:version>202604261616</sparkle:version>
-            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.5.6/TabShame.dmg" length="5866581" type="application/octet-stream" sparkle:edSignature="tYZjvhD5CvzGIGzkqtjmAq98O8FeEQUK/TO31EKBoJb2+kt7fLBAePpfZQ9i/l6i++KYFv+ZAmenX7JFLjPDAA=="/>
+            <enclosure url="https://github.com/talhatahir/tabshame-macos-updates/releases/download/v1.5.7/TabShame.dmg" length="5869511" type="application/octet-stream" sparkle:edSignature="GVVh86BrE2az6+LAtgr27R1BmnVBmGn/irausjJtFmwsSZn/PQkzDB3km9pl2u7+1bO82Irz1oU3dRroVC4tDA=="/>
         </item>
     </channel>
 </rss>
